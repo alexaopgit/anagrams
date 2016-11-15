@@ -1,6 +1,7 @@
 ## Running Anagram search tool locally
 ```
-    cd demo
+    git clone https://github.com/alexaopgit/anagrams
+    cd anagrams
     ./mvnw spring-boot:run
 ```
 You can then find the file with result in ./target/classes
